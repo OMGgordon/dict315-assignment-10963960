@@ -12,3 +12,4 @@ C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\refint\dict3
 C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.pdb
 C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.genruntimeconfig.cache
 C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\ref\dict315-assignment-10963960.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.sourcelink.json
