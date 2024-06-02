@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dict315-assignment-10963960")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0388d6106c323cc62c8dd9c25efe9840ae4cde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd554807002181a6e618fee87d1d594aef56b43f")]
 [assembly: System.Reflection.AssemblyProductAttribute("dict315-assignment-10963960")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dict315-assignment-10963960")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
