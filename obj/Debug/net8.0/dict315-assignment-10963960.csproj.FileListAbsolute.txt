@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\dict315-assignment-10963960\bin\Debug\net8.0\dict315-assignment-10963960.exe
+C:\Users\admin\Desktop\dict315-assignment-10963960\bin\Debug\net8.0\dict315-assignment-10963960.deps.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\bin\Debug\net8.0\dict315-assignment-10963960.runtimeconfig.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\bin\Debug\net8.0\dict315-assignment-10963960.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\bin\Debug\net8.0\dict315-assignment-10963960.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.AssemblyInfo.cs
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\refint\dict315-assignment-10963960.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\dict315-assignment-10963960.genruntimeconfig.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\obj\Debug\net8.0\ref\dict315-assignment-10963960.dll
