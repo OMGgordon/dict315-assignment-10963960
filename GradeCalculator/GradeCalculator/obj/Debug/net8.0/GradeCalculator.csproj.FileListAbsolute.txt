@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.exe
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.deps.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.runtimeconfig.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\bin\Debug\net8.0\GradeCalculator.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.sourcelink.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\refint\GradeCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\GradeCalculator\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll
