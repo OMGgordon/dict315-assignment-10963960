@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\bin\Debug\net8.0\TicketPriiceCalculator.exe
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\bin\Debug\net8.0\TicketPriiceCalculator.deps.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\bin\Debug\net8.0\TicketPriiceCalculator.runtimeconfig.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\bin\Debug\net8.0\TicketPriiceCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\bin\Debug\net8.0\TicketPriiceCalculator.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.AssemblyInfo.cs
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.sourcelink.json
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\refint\TicketPriiceCalculator.dll
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.pdb
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\TicketPriiceCalculator.genruntimeconfig.cache
+C:\Users\admin\Desktop\dict315-assignment-10963960\TicketPriiceCalculator\TicketPriiceCalculator\obj\Debug\net8.0\ref\TicketPriiceCalculator.dll
